@@ -190,6 +190,14 @@ body {
 .features .feat {
     padding: 20px;
     text-align: center;
+    box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2) ;
+    border-radius: 3%;
+    transition: 0.3s;
+
+}
+
+.features .feat:hover{
+    scale: 1.03;
 }
 
 .features .feat i {
