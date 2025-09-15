@@ -443,6 +443,14 @@ body {
     border-bottom: 80px solid var(--main-color);
     z-index: -1;
 }
+
+@media (max-width:767px){
+    .about .about-content .image::before,
+    .about .about-content .image::after{
+        display: none;
+    }
+}
+
 .about .about-content .image img{
     max-width: 100%;
 }
