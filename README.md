@@ -7,7 +7,7 @@ This project is fully responsive and adapts smoothly to **desktop, tablet, and m
 ---
 
 ## 🚀 Live Demo  
-🔗 [View Website](https://nabil-hany22.github.io/leon-services/)  
+🔗 [View Website](https://nabil-hany22.github.io/Leon-Services/)  
 
 ---
 
