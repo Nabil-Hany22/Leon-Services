@@ -1,8 +1,7 @@
-
 # 🌐 Leon Services Template  
 
-A clean and minimal **agency landing page** built using **HTML and CSS only**.  
-This project is fully responsive and adapts smoothly to **desktop, tablet, and mobile screens**.  
+A modern and responsive **one-page website** built using **HTML & CSS only**.  
+This project was created as a **training exercise** by converting a **PSD design** from [Graphberry](https://www.graphberry.com/item/leon-psd-agency-template) into a fully functional webpage.  
 
 ---
 
@@ -30,6 +29,8 @@ leon-services/
 │   ├── normalize.css   # Normalize file for cross-browser consistency
 │   └── style.css       # Main styling and responsive rules
 │
+│── preview/        # Preview screenshots (desktop, tablet, mobile)
+│
 │── index.html      # Main HTML file (landing page)
 │
 │── README.md       # Project documentation
@@ -55,7 +56,8 @@ leon-services/
 
 ## 🛠️ Built With  
 - **HTML5**  
-- **CSS3**  
+- **CSS3**
+- **Font Awesome** (for icons)    
 
 ---
 
